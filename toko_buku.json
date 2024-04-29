@@ -4,22 +4,22 @@
     "heading":"reminder",
     "body":"Don't forget me this weekend!",
     
-    "nama_toko": "Toko Buku Braga",
+    "nama_toko": "Unik Deklarasi",
     "pengarang": "Khairatul Hutami",
     "alamat": "Jl. Syahbandar No. 116",
     "koleksi_buku": [
         {
             "judul": "Laut Bercerita",
-            "tahun_terbit": 2024,
-            "jumlah_halaman": 400
+            "tahun_terbit": 2022,
+            "jumlah_halaman": 200
         },
         {
-            "judul": "Pulang",
+            "judul": "Kembali Pulang",
             "tahun_terbit": 2003,
             "jumlah_halaman": 100
         },
         {
-            "judul": "Pergi",
+            "judul": "Hingga Terbiasa",
             "tahun_terbit": 2019,
             "jumlah_halaman": 300
         }
