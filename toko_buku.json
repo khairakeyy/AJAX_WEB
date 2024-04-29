@@ -1,0 +1,28 @@
+{
+    "to": "Tove",
+    "from":"Jani",
+    "heading":"reminder",
+    "body":"Don't forget me this weekend!",
+    
+    "nama_toko": "Toko Buku Braga",
+    "pengarang": "Khairatul Hutami",
+    "alamat": "Jl. Syahbandar No. 116",
+    "koleksi_buku": [
+        {
+            "judul": "Laut Bercerita",
+            "tahun_terbit": 2024,
+            "jumlah_halaman": 400
+        },
+        {
+            "judul": "Pulang",
+            "tahun_terbit": 2003,
+            "jumlah_halaman": 100
+        },
+        {
+            "judul": "Pergi",
+            "tahun_terbit": 2019,
+            "jumlah_halaman": 300
+        }
+    ]
+    
+}
